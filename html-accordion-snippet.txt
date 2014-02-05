@@ -1,0 +1,16 @@
+<snippet>
+	<content><![CDATA[
+<div class="acc">
+    <div class="acc-t">$1</div>
+    <div class="acc-c">
+        <div class="inner">
+            $2
+        </div>
+    </div>
+</div>
+$3]]>
+</content>
+	<tabTrigger>acc</tabTrigger>
+	<scope>text.html</scope>
+	<description>Accordion Snippet</description>
+</snippet>
