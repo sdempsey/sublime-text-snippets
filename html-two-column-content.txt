@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[
+<div class="two-column left">
+	$1
+</div>
+<div class="two-column right">
+	$2
+</div>
+]]></content>
+	
+	<tabTrigger>2c</tabTrigger>
+	<scope>text.html</scope>
+	<description>Two-column Content Layout</description>
+</snippet>
