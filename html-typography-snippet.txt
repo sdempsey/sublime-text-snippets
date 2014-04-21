@@ -1,0 +1,63 @@
+<snippet>
+	<content><![CDATA[
+<!-- Sample Content to Plugin to Template -->
+<a name="wrapper"></a>
+<h1>CSS Basic Elements</h1>
+ 
+<p>The purpose of this HTML is to help determine what default settings are with CSS and to make sure that all possible HTML Elements are included in this HTML so as to not miss any possible Elements when designing a site.</p>
+ 
+<hr />
+ 
+<h1 id="headings">Headings</h1>
+ 
+<h1>Heading 1</h1>
+<h2>Heading 2</h2>
+<h3>Heading 3</h3>
+<h4>Heading 4</h4>
+<h5>Heading 5</h5>
+<h6>Heading 6</h6>
+ 
+<small><a href="#wrapper">[top]</a></small>
+<hr />
+ 
+ 
+<h1 id="paragraph">Paragraph</h1>
+ 
+<img src="http://unclefill.com/1024/800" alt="Placeholder" title="Placeholder" />
+<p>Lorem ipsum dolor sit amet, <a href="#" title="test link">test link</a> adipiscing elit. Nullam dignissim convallis est. Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus. Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.</p>
+ 
+<p>Lorem ipsum dolor sit amet, <em>emphasis</em> consectetuer adipiscing elit. Nullam dignissim convallis est. Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus. Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.</p>
+ 
+<small><a href="#wrapper">[top]</a></small>
+<hr />
+ 
+<h1 id="list_types">List Types</h1>
+ 
+<h3>Definition List</h3>
+<dl>
+	<dt>Definition List Title</dt>
+	<dd>This is a definition list division.</dd>
+</dl>
+ 
+<h3>Ordered List</h3>
+<ol>
+	<li>List Item 1</li>
+	<li>List Item 2</li>
+	<li>List Item 3</li>
+</ol>
+ 
+<h3>Unordered List</h3>
+<ul>
+	<li>List Item 1</li>
+	<li>List Item 2</li>
+	<li>List Item 3</li>
+</ul>
+ 
+<small><a href="#wrapper">[top]</a></small>
+<hr />
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>typography</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html</scope>
+</snippet>
