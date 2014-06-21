@@ -1,0 +1,16 @@
+<snippet>
+	<content><![CDATA[
+<picture>
+	<!--[if IE 9]><video style="display: none;"><![endif]-->
+	<source srcset="${1}" media="(min-width: 1024px)"><!-- extra large resolution -->
+	<source srcset="${2}" media="(min-width: 768px)"><!--large resolution -->
+	<source srcset="${3}"><!-- medium resolution -->
+	<!--[if IE 9]></video><![endif]-->
+	<img srcset="${4}" alt="${5}">
+</picture>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>picture</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html</scope>
+</snippet>
