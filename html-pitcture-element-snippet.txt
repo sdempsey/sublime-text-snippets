@@ -5,7 +5,7 @@
 	<source srcset="${1}" media="(min-width: 1024px)"><!-- extra large resolution -->
 	<source srcset="${2}" media="(min-width: 768px)"><!--large resolution -->
 	<!--[if IE 9]></video><![endif]-->
-	<img srcset="${3}" alt="${4}">
+	<img srcset="${3}" alt="${4}"> <!-- medium/default and fallback -->
 </picture>
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
