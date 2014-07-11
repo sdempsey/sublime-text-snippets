@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+map-get(${1});
+]]></content>
+	<tabTrigger>map-get</tabTrigger>
+	<scope>source.scss</scope>
+</snippet>
